@@ -118,8 +118,9 @@
    <text xml:lang="eng">
       <body>
          <div type="speech">
-            <pb facs="tcp:039366_0000_1014000DD1F409F0"/>
-            <pb facs="tcp:039366_0001_1014000F5649D368" rendition="simple:additions"/>
+            <pb facs="unknown:039366_0000_1014000DD1F409F0"/>
+            <pb facs="unknown:039366_0001_1014000F5649D368"
+                rendition="simple:additions"/>
             <head>Province of the Maſſachuſetts-Bay in New-England. <figure>
                   <figDesc>seal</figDesc>
                </figure> His Excel<gap reason="illegible: indecipherable" extent="5 letters">
